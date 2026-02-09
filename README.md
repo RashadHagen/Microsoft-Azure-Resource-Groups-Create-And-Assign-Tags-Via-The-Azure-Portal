@@ -123,6 +123,11 @@ In this project, you will be working within the Microsoft Azure portal to apply 
 <table>
   <tr>
     <td><img src="https://imgur.com/WOpUzRL.png" height="50%" width="50%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td><img src="https://imgur.com/OHbXz5J.png" height="100%" width="100%" /></td>
   </tr>
 </table>
