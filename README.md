@@ -102,7 +102,12 @@ In this project, you will be working within the Microsoft Azure portal to apply 
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/ksb0ARZ.png" height="500%" width="50%" /></td>
+    <td><img src="https://imgur.com/ksb0ARZ.png" height="50%" width="50%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td><img src="https://imgur.com/mqik794.png" height="100%" width="100%" /></td>
   </tr>
 </table>
